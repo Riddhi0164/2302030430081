@@ -1,0 +1,699 @@
+.navbar-child {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.svg-icon {
+  height: 53px;
+  width: 314px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.home1 {
+  text-decoration: underline;
+}
+.home1,
+.selfcare {
+  position: relative;
+  z-index: 1;
+}
+.home-about-reviews {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about,
+.doctors {
+  position: relative;
+  z-index: 1;
+}
+.home-about-reviews1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.contact {
+  position: relative;
+  z-index: 1;
+}
+.home-about-reviews2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.our-care {
+  white-space: nowrap;
+}
+.our-care,
+.reviews {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.navbar,
+.svg-rectangle {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.svg-rectangle {
+  width: 731px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: 0 38.83px;
+}
+.navbar {
+  width: 100%;
+  background-color: var(--color-gray-100);
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-21xl) var(--padding-6xs) 64px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--title-size);
+  color: var(--color-white);
+  font-family: var(--title);
+}
+.home-page-icon {
+  height: 989px;
+  width: 1742px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.laugh-your-way {
+  margin: 0;
+  width: 353px;
+  position: relative;
+  font-size: inherit;
+  line-height: 90px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.laugh-text {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-185xl) 188px;
+  box-sizing: border-box;
+  background-image: url(./public/homepage@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 989px;
+  max-width: 100%;
+  margin-top: -7px;
+}
+.doctors-frame,
+.frame-about,
+.laugh-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.doctors-frame {
+  width: 1742px;
+  flex-direction: column;
+  max-width: 121%;
+  flex-shrink: 0;
+}
+.frame-about {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: #200e3a;
+  font-family: var(--font-comfortaa);
+}
+.pill-identifier {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 90px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.button-child {
+  height: 70px;
+  width: 350px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-skyblue);
+  display: none;
+  max-width: 100%;
+}
+.what-is-this {
+  position: relative;
+  z-index: 1;
+}
+.button,
+.ellipse-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button {
+  border-radius: var(--br-31xl);
+  background-color: var(--color-skyblue);
+  justify-content: center;
+  padding: var(--padding-3xl) 75px var(--padding-4xl) 74px;
+  white-space: nowrap;
+  text-align: center;
+  font-size: var(--title-size);
+  font-family: var(--title);
+}
+.ellipse-frame {
+  width: 925px;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl);
+  gap: var(--gap-xl);
+}
+.line-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-skyblue);
+  filter: blur(500px);
+}
+.line {
+  height: 534px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-15xl);
+  box-sizing: border-box;
+}
+.news {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-decoration: underline;
+  line-height: 90px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.get-appointment-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-xs);
+  text-align: center;
+  font-size: var(--sub-head-size);
+  font-family: var(--sub-head);
+}
+.epa-will-spend {
+  width: 690px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.epa-will-spend-58-billion-to-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-6xl) 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-child {
+  height: 5.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.pill-identifier-label-inner {
+  align-self: stretch;
+  height: 9px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.its-tougher-for {
+  width: 690px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.its-tougher-for-non-white-ame-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-2xl) 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-item {
+  height: 5.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.pill-identifier-label-child {
+  align-self: stretch;
+  height: 13px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-smi);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.too-much-niacin {
+  flex: 1;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  color: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.too-much-niacin-may-be-bad-for-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-8xl) 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.pill-identifier-label-item {
+  align-self: stretch;
+  height: 5.8px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.preventive-mastectomies-may {
+  width: 690px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.preventive-mastectomies-may-sa-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) 33px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.anger-wont-help,
+.line-icon {
+  position: relative;
+  max-width: 100%;
+}
+.line-icon {
+  align-self: stretch;
+  height: 5.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.anger-wont-help {
+  flex: 1;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  color: inherit;
+  display: inline-block;
+}
+.anger-wont-help-you-get-ahead-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-40xl) var(--padding-mini);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-inner {
+  height: 5.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.frame-div {
+  align-self: stretch;
+  height: 6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.preterm-birth-does {
+  width: 690px;
+  position: relative;
+  letter-spacing: 0.07em;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-decoration: none;
+  max-width: 100%;
+}
+.pill-identifier-label,
+.preterm-birth-does-not-appear-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.preterm-birth-does-not-appear-wrapper {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-mini);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.pill-identifier-label {
+  height: 1156px;
+  flex-direction: column;
+  gap: 50px 0;
+}
+.button-item {
+  height: 70px;
+  width: 350px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-skyblue);
+  display: none;
+  max-width: 100%;
+}
+.get-an-appointment {
+  position: relative;
+  font-size: var(--title-size);
+  font-family: var(--title);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xl) var(--padding-61xl) var(--padding-4xl)
+    var(--padding-59xl);
+  background-color: var(--color-skyblue);
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.button1:hover {
+  background-color: var(--color-cadetblue-100);
+}
+.epa-cleanup-budget,
+.text-lines {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.epa-cleanup-budget {
+  align-self: stretch;
+  align-items: center;
+  gap: 136px 0;
+}
+.text-lines {
+  flex: 1;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-17xl);
+  box-sizing: border-box;
+}
+.empty-ellipse,
+.empty-ellipse1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-skyblue);
+  filter: blur(500px);
+}
+.end-frame {
+  height: 1516px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 516px 0;
+  min-width: 250px;
+}
+.e-p-a-help-u-s,
+.frame-news {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-news {
+  flex: 1;
+  align-items: flex-end;
+  gap: 0 117px;
+  max-width: calc(100% - 368px);
+}
+.e-p-a-help-u-s {
+  align-items: center;
+  gap: 0 118px;
+}
+.e-p-a-help-u-s,
+.end-icon,
+.line-frames {
+  align-self: stretch;
+  max-width: 100%;
+}
+.end-icon {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+}
+.line-frames {
+  align-items: flex-start;
+  gap: 60px 0;
+  font-size: var(--font-size-6xl);
+  font-family: var(--title);
+}
+.frame-pill-info,
+.home,
+.line-frames {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-pill-info {
+  align-self: stretch;
+  align-items: center;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--sub-head-size);
+  color: var(--color-black);
+  font-family: var(--sub-head);
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-aliceblue);
+  overflow: hidden;
+  align-items: flex-start;
+  gap: 130px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .svg-rectangle {
+    display: none;
+  }
+  .navbar {
+    width: 709px;
+  }
+  .frame-news {
+    gap: 0 117px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .laugh-your-way {
+    font-size: var(--font-size-37xl);
+    line-height: 72px;
+  }
+  .laugh-text {
+    padding-bottom: var(--padding-114xl);
+    box-sizing: border-box;
+  }
+  .pill-identifier {
+    font-size: var(--font-size-29xl);
+    line-height: 72px;
+  }
+  .line {
+    display: none;
+  }
+  .news {
+    font-size: var(--font-size-29xl);
+    line-height: 72px;
+  }
+  .end-frame {
+    flex: 1;
+  }
+  .frame-news {
+    flex-wrap: wrap;
+    max-width: 100%;
+  }
+  .e-p-a-help-u-s {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 725px) {
+  .svg-rectangle {
+    gap: 0 38.83px;
+  }
+  .laugh-text,
+  .navbar {
+    padding-left: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .laugh-text {
+    padding-left: var(--padding-75xl);
+    padding-right: var(--padding-75xl);
+  }
+  .ellipse-frame {
+    flex-wrap: wrap;
+  }
+  .pill-identifier-label {
+    gap: 50px 0;
+  }
+  .epa-cleanup-budget {
+    gap: 136px 0;
+  }
+  .text-lines {
+    min-width: 100%;
+  }
+  .frame-news {
+    gap: 0 117px;
+  }
+  .e-p-a-help-u-s {
+    gap: 0 118px;
+  }
+  .line-frames {
+    gap: 60px 0;
+  }
+  .home {
+    gap: 130px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .laugh-your-way {
+    font-size: var(--font-size-23xl);
+    line-height: 54px;
+  }
+  .laugh-text {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-67xl);
+    box-sizing: border-box;
+  }
+  .pill-identifier {
+    font-size: var(--font-size-17xl);
+    line-height: 54px;
+  }
+  .button {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .news {
+    font-size: var(--font-size-17xl);
+    line-height: 54px;
+  }
+  .anger-wont-help,
+  .epa-will-spend,
+  .its-tougher-for,
+  .preterm-birth-does,
+  .preventive-mastectomies-may,
+  .too-much-niacin {
+    font-size: var(--title-size);
+  }
+  .button1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+    width: calc(100% - 40px);
+  }
+  .epa-cleanup-budget {
+    gap: 136px 0;
+  }
+  .end-frame {
+    gap: 516px 0;
+  }
+  .e-p-a-help-u-s {
+    gap: 0 118px;
+  }
+  .home {
+    gap: 130px 0;
+  }
+}

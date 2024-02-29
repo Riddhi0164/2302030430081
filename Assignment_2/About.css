@@ -1,0 +1,292 @@
+.navbar-inner {
+  height: 68px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.gentlecare-high-resolution-log-icon1 {
+  height: 53px;
+  width: 314px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.home3 {
+  position: relative;
+  z-index: 1;
+}
+.about-reviews-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.selfcare2 {
+  position: relative;
+  z-index: 1;
+}
+.about-reviews-frame1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about3 {
+  text-decoration: underline;
+}
+.about3,
+.doctors2 {
+  position: relative;
+  z-index: 1;
+}
+.about-reviews-frame2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.contact2 {
+  position: relative;
+  z-index: 1;
+}
+.about-reviews-frame3 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.our-care2 {
+  white-space: nowrap;
+}
+.our-care2,
+.reviews2 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.navbar2,
+.self-care-frame {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.self-care-frame {
+  width: 731px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 39.17px;
+}
+.navbar2 {
+  align-self: stretch;
+  background-color: var(--color-gray-100);
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-21xl) var(--padding-6xs)
+    var(--padding-43xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--title-size);
+  color: var(--color-white);
+  font-family: var(--title);
+}
+.about-1-icon {
+  height: 100%;
+  width: 100%;
+  max-width: 104%;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 13px;
+  transform: scale(1.036);
+}
+.wrapper-about-1 {
+  height: 745px;
+  width: 1493px;
+  position: relative;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sub-header-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 92px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.logo-rectangles {
+  top: 0;
+  left: -188px;
+}
+.logo-rectangles,
+.logo-rectangles1,
+.logo-rectangles2 {
+  height: 500px;
+  width: 250px;
+  position: absolute;
+  margin: 0 !important;
+  border-radius: 50%;
+  background-color: var(--color-skyblue);
+  filter: blur(500px);
+}
+.logo-rectangles1 {
+  top: 358px;
+  right: -186px;
+}
+.logo-rectangles2 {
+  bottom: -45px;
+  left: -188px;
+}
+.welcome-to-gentlecare {
+  margin: 0;
+  font-size: 40px;
+  line-height: 90px;
+  font-weight: 500;
+  font-family: var(--sub-head);
+}
+.at-gentlecare-we,
+.blank-line10,
+.blank-line11,
+.blank-line12,
+.blank-line13,
+.blank-line14,
+.blank-line15,
+.blank-line16,
+.blank-line17,
+.blank-line18,
+.blank-line19,
+.blank-line20,
+.blank-line21,
+.blank-line22,
+.blank-line23,
+.blank-line24,
+.blank-line25,
+.blank-line26,
+.blank-line27,
+.blank-line28,
+.blank-line29,
+.blank-line30,
+.blank-line31,
+.blank-line32,
+.blank-line8,
+.blank-line9,
+.comprehensive-and-collaborativ,
+.gentlecare-offers-a,
+.in-a-world,
+.in-the-digital,
+.our-philosophy-gentle,
+.p,
+.patient-centered-excellence,
+.technology-meets-humanity,
+.thank-you-for,
+.we-place-you,
+.we-understand-that,
+.welcome-to-gentlecare1,
+.your-trust-our {
+  margin: 0;
+}
+.welcome-to-gentlecare-container {
+  height: 1388px;
+  width: 1065px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.circle-group-frame,
+.frame-ellipse {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-ellipse {
+  padding: 0 var(--padding-12xs) 0 0;
+  position: relative;
+}
+.circle-group-frame {
+  padding: 0 var(--padding-xl) var(--padding-114xl);
+  text-align: center;
+  font-size: var(--title-size);
+  color: var(--color-black);
+  font-family: var(--title);
+}
+.about2,
+.end-icon2 {
+  position: relative;
+  overflow: hidden;
+}
+.end-icon2 {
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+}
+.about2 {
+  width: 100%;
+  background-color: var(--color-aliceblue);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .circle-group-frame {
+    padding-bottom: var(--padding-67xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .self-care-frame {
+    display: none;
+  }
+  .sub-header-frame {
+    padding-bottom: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .self-care-frame {
+    gap: 0 39.17px;
+  }
+  .navbar2 {
+    padding-left: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .circle-group-frame {
+    padding-bottom: 56px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sub-header-frame {
+    padding-bottom: 39px;
+    box-sizing: border-box;
+  }
+  .welcome-to-gentlecare-container {
+    font-size: var(--font-size-base);
+  }
+  .circle-group-frame {
+    padding-bottom: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+}

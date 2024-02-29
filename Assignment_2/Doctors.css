@@ -1,0 +1,370 @@
+.rectangle-div {
+  height: 68px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.gentlecare-high-resolution-log-icon2 {
+  height: 53px;
+  width: 314px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.home4 {
+  position: relative;
+  z-index: 1;
+}
+.selfcare3 {
+  flex: 1;
+}
+.about4,
+.selfcare3 {
+  position: relative;
+  z-index: 1;
+}
+.doctors4 {
+  text-decoration: underline;
+}
+.contact3,
+.doctors4 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.our-care3 {
+  white-space: nowrap;
+}
+.our-care3,
+.reviews3 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.doctor-frame,
+.navbar3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.doctor-frame {
+  width: 731px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 39.33px;
+}
+.navbar3 {
+  align-self: stretch;
+  background-color: var(--color-gray-100);
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-21xl) var(--padding-6xs)
+    var(--padding-43xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--title-size);
+  color: var(--color-white);
+  font-family: var(--title);
+}
+.masked-frames {
+  top: 0;
+  right: -167px;
+}
+.masked-frames,
+.masked-frames1,
+.masked-frames2 {
+  height: 500px;
+  width: 250px;
+  position: absolute;
+  margin: 0 !important;
+  border-radius: 50%;
+  background-color: var(--color-skyblue);
+  filter: blur(500px);
+}
+.masked-frames1 {
+  bottom: 311px;
+  left: -167px;
+}
+.masked-frames2 {
+  right: -167px;
+  bottom: -60px;
+}
+.mask-group-icon {
+  height: 200px;
+  width: 255px;
+  position: relative;
+  object-fit: cover;
+}
+.dr-olivia-sterling {
+  line-height: 25px;
+}
+.dr-olivia-sterling-md {
+  margin: 0;
+}
+.specialty-cardiology-dr1 {
+  line-height: 30px;
+}
+.specialty-cardiology-dr {
+  margin: 0;
+  font-size: var(--title-size);
+  font-family: var(--font-didact-gothic);
+}
+.sterling-is-a-trailblazer-in-t {
+  margin: 0;
+  font-family: var(--title);
+}
+.dr-olivia-sterling-container {
+  width: 795px;
+  position: relative;
+  display: inline-block;
+}
+.doc1,
+.mask-groups {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mask-groups {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+  min-width: 517px;
+}
+.doc1 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--gap-mini);
+}
+.mask-group-icon1 {
+  height: 200px;
+  width: 255px;
+  position: relative;
+  object-fit: cover;
+}
+.dr-marcus-everest {
+  line-height: 25px;
+}
+.dr-marcus-everest-phd {
+  margin: 0;
+}
+.specialty-neurology1 {
+  line-height: 30px;
+}
+.specialty-neurology {
+  margin: 0;
+  font-size: var(--title-size);
+  font-family: var(--font-didact-gothic);
+}
+.a-distinguished-neurologist-d {
+  margin: 0;
+  font-family: var(--title);
+}
+.dr-marcus-everest-container {
+  width: 795px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.doc2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  max-width: 100%;
+}
+.mask-group-icon2 {
+  height: 200px;
+  width: 255px;
+  position: relative;
+  object-fit: cover;
+}
+.dr-ava-rodriguez {
+  line-height: 25px;
+}
+.dr-ava-rodriguez-dds {
+  margin: 0;
+}
+.specialty-dentistry1 {
+  line-height: 30px;
+}
+.specialty-dentistry {
+  margin: 0;
+  font-size: var(--title-size);
+  font-family: var(--font-didact-gothic);
+}
+.dr-rodriguez-is-a-highly-skil {
+  margin: 0;
+  font-family: var(--title);
+}
+.dr-ava-rodriguez-container {
+  width: 795px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.doc3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  max-width: 100%;
+}
+.mask-group-icon3 {
+  height: 200px;
+  width: 255px;
+  position: relative;
+  object-fit: cover;
+}
+.dr-jackson-jay {
+  line-height: 25px;
+}
+.dr-jackson-jay-harper-md {
+  margin: 0;
+}
+.specialty-orthopedic-surgery1 {
+  line-height: 30px;
+}
+.specialty-orthopedic-surgery {
+  margin: 0;
+  font-size: var(--title-size);
+  font-family: var(--font-didact-gothic);
+}
+.dr-harper-is-a-renowned-ortho {
+  margin: 0;
+  font-family: var(--title);
+}
+.dr-jackson-jay-container {
+  width: 795px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.doc4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  max-width: 100%;
+}
+.doctors5 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-106xl);
+  z-index: 1;
+}
+.doctors5,
+.ellipse-group,
+.nav-bar {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.ellipse-group {
+  width: 1106px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--sub-head);
+}
+.nav-bar {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 144px 0;
+}
+.doctors3,
+.end-icon3 {
+  position: relative;
+  overflow: hidden;
+}
+.end-icon3 {
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+}
+.doctors3 {
+  width: 100%;
+  background-color: var(--color-aliceblue);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 196px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .doctor-frame {
+    display: none;
+  }
+  .doc2,
+  .doc3,
+  .doc4 {
+    flex-wrap: wrap;
+  }
+  .doctors5 {
+    gap: var(--gap-106xl);
+  }
+}
+@media screen and (max-width: 725px) {
+  .doctor-frame {
+    gap: 0 39.33px;
+  }
+  .navbar3 {
+    padding-left: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .mask-groups {
+    min-width: 100%;
+  }
+  .doctors5 {
+    gap: var(--gap-106xl);
+  }
+  .nav-bar {
+    gap: 144px 0;
+  }
+  .doctors3 {
+    gap: 196px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .dr-ava-rodriguez-container,
+  .dr-jackson-jay-container,
+  .dr-marcus-everest-container,
+  .dr-olivia-sterling-container {
+    font-size: var(--font-size-base);
+  }
+  .doctors5 {
+    gap: var(--gap-106xl);
+  }
+  .nav-bar {
+    gap: 144px 0;
+  }
+  .doctors3 {
+    gap: 196px 0;
+  }
+}

@@ -1,0 +1,387 @@
+.navbar-child1 {
+  height: 68px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.gentlecare-high-resolution-log-icon3 {
+  height: 53px;
+  width: 314px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.home5 {
+  position: relative;
+  z-index: 1;
+}
+.frame-about-contact-our-care-r {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.selfcare4 {
+  position: relative;
+  z-index: 1;
+}
+.frame-about-contact-our-care-r1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about5,
+.doctors6 {
+  position: relative;
+  z-index: 1;
+}
+.frame-about-contact-our-care-r2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.contact4 {
+  flex: 1;
+  position: relative;
+  text-decoration: underline;
+  z-index: 1;
+}
+.our-care4 {
+  white-space: nowrap;
+}
+.our-care4,
+.reviews4 {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.frame-contact-us,
+.navbar4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-contact-us {
+  width: 731px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: 0 38.83px;
+}
+.navbar4 {
+  flex: 1;
+  background-color: var(--color-gray-100);
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-5xs) var(--padding-21xl) var(--padding-6xs)
+    var(--padding-43xl);
+  gap: var(--gap-xl);
+  z-index: 1;
+  text-align: left;
+  font-size: var(--title-size);
+  color: var(--color-white);
+  font-family: var(--title);
+}
+.contac-1-icon,
+.frame-reviews {
+  align-self: stretch;
+  max-width: 100%;
+}
+.frame-reviews {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xl) 0 19px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+.contac-1-icon {
+  position: relative;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-doctors {
+  width: 1485px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 102%;
+  flex-shrink: 0;
+}
+.frame-about1,
+.frame-home {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.frame-about1 {
+  width: 1459px;
+  justify-content: flex-start;
+  max-width: 101%;
+  flex-shrink: 0;
+}
+.frame-home {
+  align-self: stretch;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.contact-us {
+  margin: 0;
+  width: 307px;
+  position: relative;
+  font-size: inherit;
+  line-height: 90px;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-left: var(--padding-xl);
+  padding-right: var(--padding-xl);
+}
+.frame-name {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-skyblue);
+  filter: blur(500px);
+}
+.ellipse-circle {
+  height: 500px;
+  width: 259px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-name-email-subject-messa1,
+.frame-name-email-subject-messa2,
+.frame-name-email-subject-messa3 {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-skyblue);
+  align-self: stretch;
+  height: 50px;
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-15xl) var(--padding-smi);
+  box-sizing: border-box;
+  font-family: var(--title);
+  font-size: var(--title-size);
+  color: var(--color-gray-200);
+  min-width: 250px;
+}
+.frame-message,
+.frame-name-email-subject-messa4 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-name-email-subject-messa4 {
+  border: 0;
+  background-color: var(--color-skyblue);
+  height: 250px;
+  width: auto;
+  outline: 0;
+  border-radius: var(--br-11xl);
+  flex-direction: row;
+  padding: var(--padding-smi) var(--padding-15xl);
+  box-sizing: border-box;
+  font-family: var(--title);
+  font-size: var(--title-size);
+  color: var(--color-gray-200);
+}
+.frame-message {
+  flex-direction: column;
+  gap: 50px 0;
+}
+.btn-child {
+  height: 50px;
+  width: 250px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-skyblue);
+  display: none;
+}
+.submit {
+  position: relative;
+  font-size: var(--title-size);
+  font-family: var(--title);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.btn,
+.message-frame {
+  display: flex;
+  flex-direction: row;
+}
+.btn {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-3xl) var(--padding-smi)
+    var(--padding-xl);
+  background-color: var(--color-skyblue);
+  flex: 1;
+  border-radius: var(--br-31xl);
+  align-items: center;
+  justify-content: center;
+}
+.btn:hover {
+  background-color: var(--color-cadetblue-100);
+}
+.message-frame {
+  width: 259px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-email,
+.frame-subject {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-subject {
+  align-self: stretch;
+  align-items: center;
+  gap: 127px 0;
+}
+.frame-email {
+  width: 525px;
+  align-items: flex-start;
+  padding: var(--padding-19xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.circle-element {
+  height: 500px;
+  width: 250px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-skyblue);
+  filter: blur(500px);
+}
+.frame-name-email-subject-messa,
+.rectangle {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.frame-name-email-subject-messa {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.rectangle {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 18px;
+  box-sizing: border-box;
+  gap: 69px 0;
+  text-align: left;
+  font-size: var(--sub-head-size);
+  color: var(--color-black);
+  font-family: var(--sub-head);
+}
+.contacts,
+.end-icon4 {
+  position: relative;
+  overflow: hidden;
+}
+.end-icon4 {
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+}
+.contacts {
+  width: 100%;
+  background-color: var(--color-aliceblue);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 128px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .frame-contact-us {
+    display: none;
+  }
+  .frame-name-email-subject-messa {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .contact-us {
+    font-size: var(--font-size-29xl);
+    line-height: 72px;
+  }
+}
+@media screen and (max-width: 725px) {
+  .frame-contact-us {
+    gap: 0 38.83px;
+  }
+  .navbar4 {
+    padding-left: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .frame-message {
+    gap: 50px 0;
+  }
+  .frame-subject {
+    gap: 127px 0;
+  }
+  .rectangle {
+    gap: 69px 0;
+  }
+  .contacts {
+    gap: 128px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .contact-us {
+    font-size: var(--font-size-17xl);
+    line-height: 54px;
+  }
+  .submit {
+    font-size: var(--font-size-base);
+  }
+  .message-frame {
+    max-width: calc(100% - 9px);
+  }
+  .frame-subject {
+    gap: 127px 0;
+  }
+  .rectangle {
+    gap: 69px 0;
+  }
+  .contacts {
+    gap: 128px 0;
+  }
+}
